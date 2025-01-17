@@ -1,0 +1,5 @@
+TWITCH_OAUTH_TOKEN=your_twitch_oauth_token
+YOUTUBE_API_KEY=your_youtube_api_key
+YOUTUBE_LIVE_CHAT_ID=your_youtube_live_chat_id
+OPENAI_KEY=your_openai_key
+OPENAI_MODEL_ID=gpt-4o-mini

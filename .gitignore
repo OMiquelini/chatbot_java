@@ -1,0 +1,8 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore config.properties
+config.properties
+
+# Ignore build artifacts
+/target/
